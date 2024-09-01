@@ -1,3 +1,25 @@
-img p{
-size:250px;
+body{
+font-family: sans-serif;
+background-color: #1C0866;
+color: white;
+}
+
+h1{
+border: 3px dashed rgb(143, 143, 231);
+text-align: center;
+}
+p{
+    border-left: 3px dotted rgb(143, 143, 231);
+    padding: 50px;
+}
+
+img{
+height: 350px;
+width: 250px;
+}
+
+footer{ 
+    text-align: center;
+    background: rgb(143, 143, 231);
+    padding: 30px;
 }
